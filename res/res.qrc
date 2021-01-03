@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ajouter.png</file>
+        <file>afficher.png</file>
+        <file>modifier.png</file>
+        <file>supprimer.png</file>
+        <file>trier.png</file>
+        <file>chercher.png</file>
+        <file>background.png</file>
+        <file>b.png</file>
+        <file>directeur bg.png</file>
+    </qresource>
+</RCC>
